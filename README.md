@@ -1,7 +1,9 @@
-- 👋 Hi, I’m karan singh
-- 💞️ I’m interested in webdevelopement
-- 🌱 I’m currently learning react and node.js
-- 👀 I’m looking to collaborate on open source projects
+<h1 align="center">Hello 👋, I'm Karan Singh</h1>
+
+  
+
+  
+
 
 
 <!---
