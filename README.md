@@ -1,7 +1,7 @@
 - 👋 Hi, I’m karan singh
-- 👀 I’m interested in webdevelopement
+- 💞️ I’m interested in webdevelopement
 - 🌱 I’m currently learning react and node.js
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m looking to collaborate on open source projects
 
 
 <!---
